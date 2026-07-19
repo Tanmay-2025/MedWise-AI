@@ -235,3 +235,85 @@ footer{
     }
 
 }
+
+/* ==========================================
+   Fix Text Visibility
+========================================== */
+
+/* Main app background */
+.stApp{
+    background: linear-gradient(
+        180deg,
+        #F8FCFF 0%,
+        #EEF7FC 100%
+    );
+}
+
+/* All markdown text */
+.stMarkdown,
+.stMarkdown p,
+.stMarkdown span,
+.stMarkdown li,
+.stMarkdown div {
+    color: #263238 !important;
+}
+
+/* Captions */
+[data-testid="stCaptionContainer"] {
+    color: #546E7A !important;
+}
+
+/* Labels */
+label {
+    color: #263238 !important;
+}
+
+/* Metric text */
+[data-testid="stMetricLabel"] {
+    color: #1565C0 !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: #263238 !important;
+}
+
+/* Expander */
+details summary {
+    color: #1565C0 !important;
+    font-weight: 600;
+}
+
+/* Info / Success / Warning / Error text */
+[data-testid="stAlert"] p,
+[data-testid="stAlert"] span,
+[data-testid="stAlert"] div {
+    color: #263238 !important;
+}
+
+/* Forms */
+[data-testid="stForm"] {
+    background: white;
+    color: #263238;
+}
+
+/* Radio labels */
+div[role="radiogroup"] label {
+    color: #263238 !important;
+}
+
+/* Selectbox */
+div[data-baseweb="select"] * {
+    color: #263238 !important;
+}
+
+/* Text input */
+input,
+textarea {
+    color: #263238 !important;
+    background: white !important;
+}
+
+/* Tabs */
+button[data-baseweb="tab"] {
+    color: #1565C0 !important;
+}
