@@ -43,17 +43,16 @@ Antimicrobial Resistance (AMR).
 
 st.sidebar.divider()
 
-st.sidebar.info(
-    """
-📌 **Bio-Hackathon Project**
+st.sidebar.info("""
+📌 Educational AI Platform
 
-Built using:
+Built using
 
-- Streamlit
-- Python
-- Gemini AI
-"""
-)
+• Streamlit
+• Python
+• Google Gemini AI
+• Plotly
+""")
 
 st.sidebar.divider()
 
