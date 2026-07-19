@@ -1,0 +1,29 @@
+{
+    "Low": {
+        "message": "Your antibiotic use appears generally safe. Continue following medical advice.",
+        "recommendations": [
+            "Complete every prescribed antibiotic course.",
+            "Only use antibiotics when prescribed.",
+            "Never share antibiotics."
+        ]
+    },
+
+    "Moderate": {
+        "message": "Some of your habits may increase the risk of antimicrobial resistance.",
+        "recommendations": [
+            "Consult a doctor before taking antibiotics.",
+            "Avoid self-medication.",
+            "Finish the prescribed course."
+        ]
+    },
+
+    "High": {
+        "message": "Your responses indicate several unsafe antibiotic practices.",
+        "recommendations": [
+            "Consult a healthcare professional immediately regarding antibiotic use.",
+            "Do not reuse leftover antibiotics.",
+            "Never stop antibiotics early unless advised by a doctor.",
+            "Learn more about Antimicrobial Resistance (AMR)."
+        ]
+    }
+}

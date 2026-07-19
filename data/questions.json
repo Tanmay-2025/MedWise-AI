@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "question": "How did you obtain the antibiotics?",
+        "type": "select",
+        "options": [
+            "Prescription from a doctor",
+            "Pharmacy without prescription",
+            "Leftover antibiotics",
+            "Friend or family member"
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Why did you take antibiotics?",
+        "type": "select",
+        "options": [
+            "Doctor diagnosed bacterial infection",
+            "Cold or flu",
+            "Fever without consulting a doctor",
+            "Not sure"
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Did you complete the full antibiotic course?",
+        "type": "radio",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Have you ever shared antibiotics with someone else?",
+        "type": "radio",
+        "options": [
+            "Yes",
+            "No"
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What do you usually do with leftover antibiotics?",
+        "type": "select",
+        "options": [
+            "Dispose safely",
+            "Keep for future use",
+            "Give to someone else",
+            "Not applicable"
+        ]
+    }
+]

@@ -1,0 +1,1304 @@
+[
+{
+"source":"WHO",
+"topic":"Antibiotics",
+"keywords":["antibiotic","antibiotics","medicine"],
+"content":"Antibiotics are medicines used to prevent and treat bacterial infections. They do not work against viral infections."
+},
+
+{
+"source":"WHO",
+"topic":"AMR",
+"keywords":["amr","resistance"],
+"content":"Antimicrobial resistance occurs when bacteria change over time and no longer respond to antibiotics."
+},
+
+{
+"source":"WHO",
+"topic":"Misuse",
+"keywords":["misuse","self medication"],
+"content":"Using antibiotics when they are not needed accelerates antimicrobial resistance."
+},
+
+{
+"source":"WHO",
+"topic":"Prescription",
+"keywords":["doctor","prescription"],
+"content":"Only take antibiotics when prescribed by a qualified healthcare professional."
+},
+
+{
+"source":"CDC",
+"topic":"Cold",
+"keywords":["cold","flu","virus"],
+"content":"Antibiotics do not work against viruses such as the common cold or influenza."
+},
+
+{
+"source":"CDC",
+"topic":"Course",
+"keywords":["course","stop"],
+"content":"Take antibiotics exactly as prescribed and complete the full course unless instructed otherwise by your healthcare provider."
+},
+
+{
+"source":"CDC",
+"topic":"Sharing",
+"keywords":["share","sharing"],
+"content":"Never share antibiotics with another person."
+},
+
+{
+"source":"CDC",
+"topic":"Leftover",
+"keywords":["leftover"],
+"content":"Do not save antibiotics for future illnesses."
+},
+
+{
+"source":"CDC",
+"topic":"Side Effects",
+"keywords":["side effect","harm"],
+"content":"Unnecessary antibiotics can cause allergic reactions, side effects and contribute to antibiotic resistance."
+},
+
+{
+"source":"ICMR",
+"topic":"Stewardship",
+"keywords":["stewardship"],
+"content":"Antimicrobial stewardship promotes appropriate antibiotic prescribing to preserve effectiveness."
+},
+
+{
+"source":"ICMR",
+"topic":"Diagnosis",
+"keywords":["diagnosis","infection"],
+"content":"Antibiotics should only be used for confirmed or suspected bacterial infections after clinical assessment."
+},
+
+{
+"source":"ICMR",
+"topic":"Self Medication",
+"keywords":["self medication","chemist"],
+"content":"Self-medication with antibiotics is discouraged because it contributes to resistance and inappropriate treatment."
+}
+,
+{
+"source":"WHO",
+"topic":"Antibiotics",
+"keywords":["antibiotic","antibiotics","medicine"],
+"content":"Antibiotics are medicines used to treat bacterial infections. They are not effective against viral infections."
+},
+{
+"source":"WHO",
+"topic":"Bacteria",
+"keywords":["bacteria","bacterial infection"],
+"content":"Bacteria are living microorganisms. Some bacteria cause disease, while many are harmless or beneficial."
+},
+{
+"source":"WHO",
+"topic":"Viruses",
+"keywords":["virus","viral infection"],
+"content":"Viruses are different from bacteria. Antibiotics do not kill viruses."
+},
+{
+"source":"CDC",
+"topic":"Common Cold",
+"keywords":["cold","common cold"],
+"content":"The common cold is caused by viruses. Antibiotics do not help people recover from a cold."
+},
+{
+"source":"CDC",
+"topic":"Influenza",
+"keywords":["flu","influenza"],
+"content":"Influenza is a viral infection. Antibiotics should not be used unless there is a confirmed bacterial infection."
+},
+{
+"source":"CDC",
+"topic":"COVID-19",
+"keywords":["covid","covid-19","coronavirus"],
+"content":"COVID-19 is caused by a virus. Antibiotics do not treat COVID-19 itself."
+},
+{
+"source":"WHO",
+"topic":"Prescription",
+"keywords":["prescription","doctor"],
+"content":"Only use antibiotics when prescribed by a qualified healthcare professional."
+},
+{
+"source":"ICMR",
+"topic":"Prescription",
+"keywords":["physician","consultation"],
+"content":"Antibiotics should be prescribed only after appropriate clinical assessment."
+},
+{
+"source":"WHO",
+"topic":"Course",
+"keywords":["course","complete course"],
+"content":"Always complete the antibiotic course exactly as instructed by your healthcare provider."
+},
+{
+"source":"CDC",
+"topic":"Dose",
+"keywords":["dose","dosage"],
+"content":"Take antibiotics at the recommended dose and schedule."
+},
+{
+"source":"WHO",
+"topic":"Sharing Medicines",
+"keywords":["share","sharing"],
+"content":"Never share antibiotics with another person."
+},
+{
+"source":"CDC",
+"topic":"Leftover Antibiotics",
+"keywords":["leftover","saved antibiotics"],
+"content":"Do not keep leftover antibiotics for future illnesses."
+},
+{
+"source":"WHO",
+"topic":"Reuse",
+"keywords":["reuse"],
+"content":"Do not reuse antibiotics without medical advice."
+},
+{
+"source":"ICMR",
+"topic":"Self Medication",
+"keywords":["self medication","chemist"],
+"content":"Self-medication with antibiotics increases the risk of inappropriate treatment and antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Resistance",
+"keywords":["resistance","amr"],
+"content":"Every unnecessary use of antibiotics contributes to antimicrobial resistance."
+},
+{
+"source":"CDC",
+"topic":"Side Effects",
+"keywords":["side effects","allergy"],
+"content":"Antibiotics can cause allergic reactions and other side effects. They should only be used when needed."
+},
+{
+"source":"WHO",
+"topic":"Stewardship",
+"keywords":["stewardship"],
+"content":"Antibiotic stewardship promotes responsible antibiotic prescribing and use."
+},
+{
+"source":"ICMR",
+"topic":"Hospital",
+"keywords":["hospital"],
+"content":"Hospitals should implement antimicrobial stewardship programs to reduce antibiotic misuse."
+},
+{
+"source":"WHO",
+"topic":"Diagnosis",
+"keywords":["diagnosis"],
+"content":"A correct diagnosis helps determine whether antibiotics are necessary."
+},
+{
+"source":"CDC",
+"topic":"Testing",
+"keywords":["test","laboratory"],
+"content":"Laboratory testing can help identify bacterial infections and guide appropriate antibiotic treatment."
+},
+{
+"source":"WHO",
+"topic":"Fever",
+"keywords":["fever"],
+"content":"Fever alone does not mean antibiotics are needed. The underlying cause should be evaluated."
+},
+{
+"source":"CDC",
+"topic":"Sore Throat",
+"keywords":["sore throat"],
+"content":"Most sore throats are caused by viruses and do not require antibiotics."
+},
+{
+"source":"CDC",
+"topic":"Ear Infection",
+"keywords":["ear infection"],
+"content":"Some ear infections improve without antibiotics. A healthcare professional should determine the best treatment."
+},
+{
+"source":"WHO",
+"topic":"Diarrhea",
+"keywords":["diarrhea"],
+"content":"Most diarrhea is not treated with antibiotics. Treatment depends on the underlying cause."
+},
+{
+"source":"WHO",
+"topic":"Cough",
+"keywords":["cough"],
+"content":"Most coughs are caused by viral infections and do not require antibiotics."
+},
+{
+"source":"CDC",
+"topic":"Bronchitis",
+"keywords":["bronchitis"],
+"content":"Acute bronchitis is usually caused by viruses. Antibiotics are generally not recommended."
+},
+{
+"source":"WHO",
+"topic":"Pneumonia",
+"keywords":["pneumonia"],
+"content":"Some cases of pneumonia are bacterial and may require antibiotics after medical evaluation."
+},
+{
+"source":"WHO",
+"topic":"Urinary Tract Infection",
+"keywords":["uti","urinary infection"],
+"content":"Urinary tract infections are commonly bacterial and may require antibiotics prescribed by a healthcare professional."
+},
+{
+"source":"CDC",
+"topic":"Skin Infection",
+"keywords":["skin infection"],
+"content":"Some skin infections are bacterial and require antibiotics, while others do not."
+},
+{
+"source":"WHO",
+"topic":"Dental Infection",
+"keywords":["tooth infection","dental"],
+"content":"Some dental infections require antibiotics, but dental treatment is often the primary management."
+},
+{
+"source":"WHO",
+"topic":"Children",
+"keywords":["children","child"],
+"content":"Children should only receive antibiotics when prescribed by a qualified healthcare professional."
+},
+{
+"source":"CDC",
+"topic":"Pregnancy",
+"keywords":["pregnancy","pregnant"],
+"content":"Some antibiotics are safe during pregnancy, while others are not. Medical advice is essential."
+},
+{
+"source":"WHO",
+"topic":"Older Adults",
+"keywords":["elderly","older adults"],
+"content":"Older adults may have additional health conditions that influence antibiotic choice."
+},
+{
+"source":"WHO",
+"topic":"Missed Dose",
+"keywords":["missed dose"],
+"content":"If you miss a dose of antibiotics, follow the instructions provided by your healthcare professional or pharmacist."
+},
+{
+"source":"CDC",
+"topic":"Storage",
+"keywords":["storage","store"],
+"content":"Store antibiotics according to the instructions on the medicine label."
+},
+{
+"source":"WHO",
+"topic":"Expired Antibiotics",
+"keywords":["expired"],
+"content":"Do not use expired antibiotics."
+},
+{
+"source":"CDC",
+"topic":"Disposal",
+"keywords":["dispose","disposal"],
+"content":"Dispose of unused antibiotics safely according to local recommendations."
+},
+{
+"source":"WHO",
+"topic":"Vaccination",
+"keywords":["vaccine","vaccination"],
+"content":"Vaccination helps prevent infections and reduces the need for antibiotics."
+},
+{
+"source":"WHO",
+"topic":"Hand Hygiene",
+"keywords":["hand washing","hand hygiene"],
+"content":"Regular hand washing helps prevent infections and reduces antibiotic use."
+},
+{
+"source":"CDC",
+"topic":"Food Safety",
+"keywords":["food poisoning","food safety"],
+"content":"Safe food handling reduces bacterial infections and helps reduce unnecessary antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"Travel",
+"keywords":["travel"],
+"content":"Practice good hygiene while traveling to reduce the risk of infection."
+},
+{
+"source":"WHO",
+"topic":"Healthy Lifestyle",
+"keywords":["healthy lifestyle","nutrition"],
+"content":"Healthy nutrition, exercise, sleep and vaccination help prevent infections."
+},
+{
+"source":"CDC",
+"topic":"When Not Needed",
+"keywords":["not needed"],
+"content":"Taking antibiotics when they are not needed offers no benefit and increases the risk of resistance."
+},
+{
+"source":"WHO",
+"topic":"Public Health",
+"keywords":["public health"],
+"content":"Responsible antibiotic use protects both individuals and communities."
+},
+{
+"source":"ICMR",
+"topic":"India",
+"keywords":["india"],
+"content":"Responsible antibiotic use is an important strategy for addressing antimicrobial resistance in India."
+},
+{
+"source":"WHO",
+"topic":"Education",
+"keywords":["education","awareness"],
+"content":"Public awareness is essential to slow antimicrobial resistance."
+},
+{
+"source":"CDC",
+"topic":"Ask Questions",
+"keywords":["ask doctor","questions"],
+"content":"Ask your healthcare professional why an antibiotic is prescribed and how it should be taken."
+},
+{
+"source":"WHO",
+"topic":"Finish Treatment",
+"keywords":["finish treatment"],
+"content":"Follow the prescribed treatment plan even if symptoms improve, unless your healthcare provider advises otherwise."
+},
+{
+"source":"CDC",
+"topic":"Responsible Use",
+"keywords":["responsible use"],
+"content":"Responsible antibiotic use helps preserve these medicines for future generations."
+},
+{
+"source":"WHO",
+"topic":"Global Health",
+"keywords":["global"],
+"content":"Antimicrobial resistance is recognized as one of the world's major public health challenges."
+}
+,
+{
+"source":"WHO",
+"topic":"AMR Definition",
+"keywords":["amr","antimicrobial resistance"],
+"content":"Antimicrobial resistance occurs when microorganisms evolve and medicines become less effective, making infections harder to treat."
+},
+{
+"source":"WHO",
+"topic":"Bacterial Resistance",
+"keywords":["bacterial resistance","resistant bacteria"],
+"content":"Bacteria can develop resistance to antibiotics through natural evolutionary processes, especially when antibiotics are used inappropriately."
+},
+{
+"source":"WHO",
+"topic":"Global Threat",
+"keywords":["global threat","public health threat"],
+"content":"Antimicrobial resistance is one of the major global public health challenges because it reduces the effectiveness of life-saving medicines."
+},
+{
+"source":"CDC",
+"topic":"Drug Resistant Infections",
+"keywords":["drug resistant","resistant infection"],
+"content":"Drug-resistant infections can be more difficult to treat and may require alternative medicines or longer treatment."
+},
+{
+"source":"ICMR",
+"topic":"Antibiotic Stewardship",
+"keywords":["antibiotic stewardship","stewardship program"],
+"content":"Antimicrobial stewardship promotes the appropriate selection, dose, duration and route of antibiotic therapy."
+},
+{
+"source":"WHO",
+"topic":"Misuse",
+"keywords":["misuse","inappropriate use"],
+"content":"Using antibiotics when they are not needed accelerates the development of antimicrobial resistance."
+},
+{
+"source":"CDC",
+"topic":"Unnecessary Antibiotics",
+"keywords":["unnecessary antibiotics","not required"],
+"content":"Taking antibiotics unnecessarily exposes people to possible side effects without providing benefit."
+},
+{
+"source":"WHO",
+"topic":"Resistance Spread",
+"keywords":["spread resistance","spread bacteria"],
+"content":"Resistant bacteria can spread between people, communities and healthcare settings."
+},
+{
+"source":"WHO",
+"topic":"Future Treatment",
+"keywords":["future antibiotics","future treatment"],
+"content":"Protecting antibiotics today helps ensure they remain effective for future generations."
+},
+{
+"source":"CDC",
+"topic":"Healthcare",
+"keywords":["hospital infection","healthcare"],
+"content":"Healthcare facilities play an important role in preventing antibiotic resistance through infection control and responsible prescribing."
+},
+{
+"source":"WHO",
+"topic":"Infection Prevention",
+"keywords":["infection prevention","prevent infection"],
+"content":"Preventing infections reduces the need for antibiotics and slows the development of resistance."
+},
+{
+"source":"WHO",
+"topic":"Hand Washing",
+"keywords":["wash hands","clean hands"],
+"content":"Proper hand hygiene is one of the most effective ways to prevent infections."
+},
+{
+"source":"CDC",
+"topic":"Vaccination",
+"keywords":["vaccines","immunization"],
+"content":"Vaccination helps prevent infections and reduces unnecessary antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"Correct Antibiotic",
+"keywords":["correct antibiotic","appropriate antibiotic"],
+"content":"The correct antibiotic should be chosen based on the infection and clinical evaluation."
+},
+{
+"source":"ICMR",
+"topic":"Culture Test",
+"keywords":["culture test","microbiology"],
+"content":"Laboratory testing can help identify the bacteria responsible for an infection and guide antibiotic selection."
+},
+{
+"source":"WHO",
+"topic":"Broad Spectrum",
+"keywords":["broad spectrum"],
+"content":"Broad-spectrum antibiotics should be used carefully because unnecessary use may increase resistance."
+},
+{
+"source":"WHO",
+"topic":"Narrow Spectrum",
+"keywords":["narrow spectrum"],
+"content":"When appropriate, narrow-spectrum antibiotics may reduce unnecessary exposure to other bacteria."
+},
+{
+"source":"CDC",
+"topic":"Antibiotic Course",
+"keywords":["finish antibiotics","complete medicine"],
+"content":"Take antibiotics exactly as directed by your healthcare provider."
+},
+{
+"source":"WHO",
+"topic":"Dose Timing",
+"keywords":["timing","medicine timing"],
+"content":"Taking antibiotics at the recommended intervals helps maintain effective medicine levels."
+},
+{
+"source":"WHO",
+"topic":"Stopping Early",
+"keywords":["stop early","stopped medicine"],
+"content":"Do not stop antibiotics without medical advice because treatment decisions depend on the infection and clinical assessment."
+},
+{
+"source":"CDC",
+"topic":"Side Effects",
+"keywords":["nausea","diarrhea","rash"],
+"content":"Some antibiotics may cause side effects such as nausea, diarrhea or allergic reactions."
+},
+{
+"source":"WHO",
+"topic":"Allergy",
+"keywords":["allergy","allergic"],
+"content":"Seek medical attention if you experience signs of a serious allergic reaction after taking an antibiotic."
+},
+{
+"source":"ICMR",
+"topic":"Prescription Only",
+"keywords":["without prescription","chemist without prescription"],
+"content":"Antibiotics should not be obtained without appropriate medical advice."
+},
+{
+"source":"WHO",
+"topic":"Community Awareness",
+"keywords":["awareness campaign","community"],
+"content":"Community education is an important strategy to reduce antibiotic misuse."
+},
+{
+"source":"CDC",
+"topic":"Family Members",
+"keywords":["family medicine","shared medicine"],
+"content":"Medicines prescribed for one person may not be appropriate for another person, even with similar symptoms."
+},
+{
+"source":"WHO",
+"topic":"Children and Antibiotics",
+"keywords":["child antibiotics","kids antibiotics"],
+"content":"Children require careful medical assessment before antibiotics are prescribed."
+},
+{
+"source":"WHO",
+"topic":"Older Adults",
+"keywords":["elderly antibiotics","senior"],
+"content":"Older adults may require individualized antibiotic treatment because of other medical conditions."
+},
+{
+"source":"CDC",
+"topic":"Travel Health",
+"keywords":["travel antibiotics"],
+"content":"Do not routinely carry or use antibiotics for self-treatment while traveling unless advised by a healthcare professional."
+},
+{
+"source":"WHO",
+"topic":"Public Responsibility",
+"keywords":["responsibility","community responsibility"],
+"content":"Every individual has a role in preserving antibiotic effectiveness through responsible use."
+},
+{
+"source":"WHO",
+"topic":"One Health",
+"keywords":["one health"],
+"content":"The One Health approach recognizes that human, animal and environmental health are interconnected in addressing antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Animal Use",
+"keywords":["livestock","animal antibiotics"],
+"content":"Responsible antibiotic use in animals is also important to reduce antimicrobial resistance."
+},
+{
+"source":"CDC",
+"topic":"Healthy Habits",
+"keywords":["healthy habits"],
+"content":"Good hygiene, nutrition, adequate sleep and vaccination help reduce infections and the need for antibiotics."
+},
+{
+"source":"WHO",
+"topic":"Surgery",
+"keywords":["surgery antibiotics"],
+"content":"Antibiotics may be used before certain surgeries to help prevent bacterial infections when clinically indicated."
+},
+{
+"source":"ICMR",
+"topic":"Hospital Stewardship",
+"keywords":["hospital stewardship"],
+"content":"Hospitals should monitor antibiotic prescribing to promote safe and appropriate use."
+},
+{
+"source":"WHO",
+"topic":"Monitoring",
+"keywords":["monitoring","surveillance"],
+"content":"Monitoring antimicrobial resistance helps guide public health policies and treatment recommendations."
+},
+{
+"source":"CDC",
+"topic":"Antibiotic Resistance",
+"keywords":["superbugs","resistant germs"],
+"content":"Some bacteria have become resistant to multiple antibiotics, making infections more difficult to treat."
+},
+{
+"source":"WHO",
+"topic":"Research",
+"keywords":["research","new antibiotics"],
+"content":"Research into new antibiotics and better diagnostics is important because resistance continues to evolve."
+},
+{
+"source":"WHO",
+"topic":"Education",
+"keywords":["school","students"],
+"content":"Educating students and communities about antibiotics encourages responsible medicine use."
+},
+{
+"source":"CDC",
+"topic":"Communication",
+"keywords":["doctor discussion","talk to doctor"],
+"content":"Ask questions if you are unsure why an antibiotic has been prescribed or how it should be taken."
+},
+{
+"source":"WHO",
+"topic":"Safe Use",
+"keywords":["safe use","responsible use"],
+"content":"Responsible antibiotic use protects individual health and helps preserve effective treatments worldwide."
+},
+
+
+{
+"source":"CDC",
+"topic":"Runny Nose",
+"keywords":["runny nose","nasal congestion"],
+"content":"A runny nose is commonly caused by viral infections or allergies. Antibiotics are usually not needed."
+},
+{
+"source":"CDC",
+"topic":"Sinus Infection",
+"keywords":["sinus infection","sinusitis"],
+"content":"Many sinus infections improve without antibiotics. A healthcare professional can determine if antibiotics are appropriate."
+},
+{
+"source":"WHO",
+"topic":"Common Cold Recovery",
+"keywords":["cold recovery","recover from cold"],
+"content":"Rest, fluids and symptom relief are usually recommended for the common cold because antibiotics do not treat viral infections."
+},
+{
+"source":"CDC",
+"topic":"Flu Recovery",
+"keywords":["flu recovery","influenza treatment"],
+"content":"Most people recover from influenza with supportive care. Antibiotics are only used if a bacterial infection develops."
+},
+{
+"source":"WHO",
+"topic":"Viral Fever",
+"keywords":["viral fever"],
+"content":"Many fevers are caused by viral infections and do not require antibiotics."
+},
+{
+"source":"ICMR",
+"topic":"Persistent Fever",
+"keywords":["persistent fever","high fever"],
+"content":"Persistent or severe fever should be evaluated by a qualified healthcare professional to determine the underlying cause."
+},
+{
+"source":"CDC",
+"topic":"Cough Duration",
+"keywords":["persistent cough","long cough"],
+"content":"A cough may continue after a viral infection. Antibiotics are not routinely recommended unless a bacterial infection is diagnosed."
+},
+{
+"source":"WHO",
+"topic":"Sore Throat",
+"keywords":["throat pain","pharyngitis"],
+"content":"Most sore throats are viral. Some bacterial throat infections require medical evaluation before antibiotics are considered."
+},
+{
+"source":"CDC",
+"topic":"Strep Throat",
+"keywords":["strep throat"],
+"content":"Strep throat is caused by bacteria and usually requires confirmation before antibiotic treatment."
+},
+{
+"source":"WHO",
+"topic":"Bronchitis",
+"keywords":["acute bronchitis"],
+"content":"Acute bronchitis is most often caused by viruses and antibiotics are generally not recommended."
+},
+{
+"source":"WHO",
+"topic":"Pneumonia Assessment",
+"keywords":["lung infection","chest infection"],
+"content":"Pneumonia may be caused by bacteria, viruses or fungi. Appropriate treatment depends on medical evaluation."
+},
+{
+"source":"CDC",
+"topic":"Ear Pain",
+"keywords":["ear pain"],
+"content":"Not every ear infection requires antibiotics. Many mild infections improve without them."
+},
+{
+"source":"WHO",
+"topic":"Urinary Symptoms",
+"keywords":["burning urination","pain while urinating"],
+"content":"Pain during urination may indicate a urinary tract infection that requires medical assessment."
+},
+{
+"source":"CDC",
+"topic":"UTI",
+"keywords":["urinary tract infection","uti symptoms"],
+"content":"Urinary tract infections are commonly bacterial and may require antibiotics prescribed by a healthcare professional."
+},
+{
+"source":"WHO",
+"topic":"Diarrhea Treatment",
+"keywords":["stomach infection","food poisoning"],
+"content":"Most episodes of diarrhea do not require antibiotics. Treatment depends on the underlying cause."
+},
+{
+"source":"CDC",
+"topic":"Vomiting",
+"keywords":["vomiting","nausea"],
+"content":"Vomiting alone does not indicate the need for antibiotics."
+},
+{
+"source":"WHO",
+"topic":"Skin Wound",
+"keywords":["cut infection","infected wound"],
+"content":"Some infected wounds require antibiotics, while others primarily need proper wound care."
+},
+{
+"source":"CDC",
+"topic":"Boils",
+"keywords":["boil","abscess"],
+"content":"Some boils require drainage rather than antibiotics alone. Medical assessment is recommended."
+},
+{
+"source":"WHO",
+"topic":"Acne",
+"keywords":["acne","pimples"],
+"content":"Some acne treatments include antibiotics, but they should only be used under medical supervision."
+},
+{
+"source":"CDC",
+"topic":"Tooth Pain",
+"keywords":["tooth pain","toothache"],
+"content":"Tooth pain does not always require antibiotics. Dental treatment is often the most important management."
+},
+{
+"source":"WHO",
+"topic":"Dental Abscess",
+"keywords":["dental abscess"],
+"content":"Dental abscesses require professional dental care. Antibiotics may be used in specific situations."
+},
+{
+"source":"CDC",
+"topic":"Eye Infection",
+"keywords":["pink eye","conjunctivitis"],
+"content":"Many cases of conjunctivitis are viral and do not require antibiotics."
+},
+{
+"source":"WHO",
+"topic":"Animal Bite",
+"keywords":["dog bite","animal bite"],
+"content":"Animal bites require prompt medical evaluation because some may require antibiotics and vaccination."
+},
+{
+"source":"CDC",
+"topic":"Tick Bite",
+"keywords":["tick bite"],
+"content":"Not every tick bite requires antibiotics. Treatment depends on risk assessment and medical advice."
+},
+{
+"source":"WHO",
+"topic":"Mosquito Bite",
+"keywords":["mosquito bite"],
+"content":"Mosquito bites do not require antibiotics unless a secondary bacterial infection develops."
+},
+{
+"source":"CDC",
+"topic":"Viral Rash",
+"keywords":["viral rash"],
+"content":"Many skin rashes are caused by viruses and are not treated with antibiotics."
+},
+{
+"source":"WHO",
+"topic":"Fungal Infection",
+"keywords":["fungal infection","fungus"],
+"content":"Antibiotics do not treat fungal infections. Antifungal medicines are used when appropriate."
+},
+{
+"source":"CDC",
+"topic":"Parasitic Infection",
+"keywords":["parasite","worm infection"],
+"content":"Antibiotics are generally not used to treat parasitic infections."
+},
+{
+"source":"WHO",
+"topic":"Malaria",
+"keywords":["malaria"],
+"content":"Malaria is caused by parasites and is treated with antimalarial medicines, not antibiotics."
+},
+{
+"source":"CDC",
+"topic":"Dengue",
+"keywords":["dengue"],
+"content":"Dengue is a viral illness. Antibiotics do not treat dengue."
+},
+{
+"source":"WHO",
+"topic":"Typhoid",
+"keywords":["typhoid"],
+"content":"Typhoid fever is a bacterial infection that requires diagnosis and appropriate antibiotic treatment."
+},
+{
+"source":"CDC",
+"topic":"Tuberculosis",
+"keywords":["tuberculosis","tb"],
+"content":"Tuberculosis requires a specific combination of antibiotics prescribed for several months under medical supervision."
+},
+{
+"source":"WHO",
+"topic":"Meningitis",
+"keywords":["meningitis"],
+"content":"Some forms of meningitis are bacterial and require urgent antibiotic treatment."
+},
+{
+"source":"CDC",
+"topic":"Sepsis",
+"keywords":["sepsis"],
+"content":"Sepsis is a medical emergency that requires immediate medical care. Treatment may include antibiotics when caused by bacterial infection."
+},
+{
+"source":"WHO",
+"topic":"Post Surgery Infection",
+"keywords":["surgical infection","post surgery"],
+"content":"Signs of infection after surgery should be evaluated promptly by a healthcare professional."
+},
+{
+"source":"CDC",
+"topic":"Catheter Infection",
+"keywords":["catheter"],
+"content":"Healthcare-associated infections require medical evaluation and appropriate treatment."
+},
+{
+"source":"WHO",
+"topic":"Hospital Acquired Infection",
+"keywords":["hospital acquired infection","hai"],
+"content":"Preventing healthcare-associated infections helps reduce unnecessary antibiotic use."
+},
+{
+"source":"ICMR",
+"topic":"Diagnostic Testing",
+"keywords":["blood culture","culture report"],
+"content":"Culture reports help clinicians choose the most appropriate antibiotic whenever possible."
+},
+{
+"source":"WHO",
+"topic":"Appropriate Treatment",
+"keywords":["appropriate treatment"],
+"content":"Not every infection requires antibiotics. Treatment depends on the cause of the illness."
+},
+{
+"source":"CDC",
+"topic":"Consultation",
+"keywords":["when to see doctor","medical advice"],
+"content":"If symptoms are severe, persistent or worsening, consult a qualified healthcare professional for evaluation."
+},
+
+{
+"source":"WHO",
+"topic":"Hand Hygiene",
+"keywords":["hand wash","wash hands","hand hygiene"],
+"content":"Cleaning hands regularly with soap and water or alcohol-based hand rub is one of the most effective ways to prevent infections."
+},
+{
+"source":"WHO",
+"topic":"Respiratory Hygiene",
+"keywords":["cover cough","cover sneeze","respiratory hygiene"],
+"content":"Covering coughs and sneezes helps reduce the spread of respiratory infections."
+},
+{
+"source":"CDC",
+"topic":"Face Masks",
+"keywords":["mask","face covering"],
+"content":"In certain healthcare and outbreak settings, wearing masks may help reduce transmission of respiratory infections."
+},
+{
+"source":"WHO",
+"topic":"Vaccination",
+"keywords":["vaccination","vaccines","immunization"],
+"content":"Vaccination prevents many bacterial and viral infections, reducing the need for antibiotics."
+},
+{
+"source":"CDC",
+"topic":"Flu Vaccine",
+"keywords":["flu vaccine","influenza vaccine"],
+"content":"Influenza vaccination reduces the risk of flu and complications that may lead to unnecessary antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"Pneumococcal Vaccine",
+"keywords":["pneumococcal vaccine","pneumonia vaccine"],
+"content":"Pneumococcal vaccination helps prevent certain bacterial infections that may require antibiotic treatment."
+},
+{
+"source":"WHO",
+"topic":"Food Safety",
+"keywords":["food safety","safe food"],
+"content":"Proper food preparation and storage reduce the risk of foodborne bacterial infections."
+},
+{
+"source":"CDC",
+"topic":"Cook Food",
+"keywords":["cook meat","undercooked food"],
+"content":"Cooking meat thoroughly helps prevent foodborne bacterial infections."
+},
+{
+"source":"WHO",
+"topic":"Safe Water",
+"keywords":["clean water","drinking water"],
+"content":"Access to safe drinking water helps prevent infectious diseases."
+},
+{
+"source":"WHO",
+"topic":"Sanitation",
+"keywords":["sanitation","clean environment"],
+"content":"Improved sanitation reduces the spread of infectious diseases."
+},
+{
+"source":"WHO",
+"topic":"Travel Health",
+"keywords":["travel health","travel medicine"],
+"content":"Follow destination-specific health advice and vaccinations before international travel."
+},
+{
+"source":"CDC",
+"topic":"Traveler's Diarrhea",
+"keywords":["traveler diarrhea","traveller diarrhea"],
+"content":"Safe food and water practices reduce the risk of travel-related gastrointestinal infections."
+},
+{
+"source":"WHO",
+"topic":"One Health",
+"keywords":["one health"],
+"content":"One Health recognizes that human, animal and environmental health are interconnected in combating antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Animal Antibiotics",
+"keywords":["livestock","animal antibiotics"],
+"content":"Responsible antibiotic use in animals is important to reduce antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Agriculture",
+"keywords":["farming","agriculture"],
+"content":"Responsible antimicrobial use in agriculture helps preserve antibiotic effectiveness."
+},
+{
+"source":"WHO",
+"topic":"Environment",
+"keywords":["environment","wastewater"],
+"content":"Environmental contamination with antimicrobial agents may contribute to antimicrobial resistance."
+},
+{
+"source":"CDC",
+"topic":"Healthcare Workers",
+"keywords":["healthcare worker","doctor","nurse"],
+"content":"Healthcare workers play an important role in infection prevention and appropriate antibiotic prescribing."
+},
+{
+"source":"ICMR",
+"topic":"Hospital Infection Control",
+"keywords":["infection control","hospital hygiene"],
+"content":"Effective infection prevention and control programs reduce healthcare-associated infections."
+},
+{
+"source":"WHO",
+"topic":"Hospital Hygiene",
+"keywords":["hospital cleanliness"],
+"content":"Maintaining clean healthcare environments reduces infection transmission."
+},
+{
+"source":"WHO",
+"topic":"Isolation",
+"keywords":["isolation","infection isolation"],
+"content":"Isolation precautions help prevent the spread of certain infectious diseases."
+},
+{
+"source":"CDC",
+"topic":"Cleaning Surfaces",
+"keywords":["surface cleaning","disinfection"],
+"content":"Regular cleaning and disinfection reduce the spread of infectious microorganisms."
+},
+{
+"source":"WHO",
+"topic":"Stewardship Goal",
+"keywords":["stewardship goal"],
+"content":"Antimicrobial stewardship aims to optimize antibiotic use while minimizing resistance."
+},
+{
+"source":"ICMR",
+"topic":"Prescription Review",
+"keywords":["review prescription"],
+"content":"Regular review of antibiotic prescriptions helps improve patient care and reduce unnecessary use."
+},
+{
+"source":"WHO",
+"topic":"Right Drug",
+"keywords":["right antibiotic"],
+"content":"Selecting the appropriate antibiotic improves treatment effectiveness and reduces resistance."
+},
+{
+"source":"WHO",
+"topic":"Right Dose",
+"keywords":["right dose"],
+"content":"Using the correct antibiotic dose is important for effective treatment."
+},
+{
+"source":"WHO",
+"topic":"Right Duration",
+"keywords":["treatment duration"],
+"content":"The duration of antibiotic treatment should follow current clinical recommendations."
+},
+{
+"source":"CDC",
+"topic":"Patient Education",
+"keywords":["patient education"],
+"content":"Educating patients about antibiotics improves responsible medicine use."
+},
+{
+"source":"WHO",
+"topic":"Awareness Campaigns",
+"keywords":["awareness campaign","world amr awareness week"],
+"content":"Public awareness campaigns encourage responsible antibiotic use and help combat antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Global Action Plan",
+"keywords":["global action plan"],
+"content":"WHO's Global Action Plan on AMR focuses on awareness, surveillance, infection prevention, responsible use and sustainable investment."
+},
+{
+"source":"ICMR",
+"topic":"India AMR",
+"keywords":["india amr","national action plan"],
+"content":"India promotes antimicrobial stewardship, surveillance and awareness to address antimicrobial resistance."
+},
+{
+"source":"WHO",
+"topic":"Public Health",
+"keywords":["community health","public health"],
+"content":"Responsible antibiotic use benefits individuals, healthcare systems and society."
+},
+{
+"source":"CDC",
+"topic":"Family Education",
+"keywords":["family awareness"],
+"content":"Teaching family members about responsible antibiotic use helps reduce misuse in the community."
+},
+{
+"source":"WHO",
+"topic":"Schools",
+"keywords":["school awareness"],
+"content":"Health education in schools improves understanding of infection prevention and antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"AMR Awareness Week",
+"keywords":["awareness week","world antimicrobial awareness week"],
+"content":"World AMR Awareness Week promotes responsible antimicrobial use across the world."
+},
+{
+"source":"CDC",
+"topic":"Healthy Lifestyle",
+"keywords":["healthy immune system","healthy habits"],
+"content":"Healthy eating, regular physical activity, adequate sleep and vaccination reduce infection risk."
+},
+{
+"source":"WHO",
+"topic":"Prevent Infection",
+"keywords":["prevent infections"],
+"content":"Preventing infections is one of the best ways to reduce unnecessary antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"Community Responsibility",
+"keywords":["community responsibility"],
+"content":"Everyone has a role in preserving antibiotics by using them responsibly."
+},
+{
+"source":"CDC",
+"topic":"Antibiotic Effectiveness",
+"keywords":["effective antibiotics"],
+"content":"Responsible antibiotic use helps ensure these medicines remain effective for future patients."
+},
+{
+"source":"WHO",
+"topic":"Future Generations",
+"keywords":["future generations"],
+"content":"Protecting antibiotics today helps safeguard effective treatments for future generations."
+},
+{
+"source":"WHO",
+"topic":"Final Prevention",
+"keywords":["prevent amr"],
+"content":"Prevent infections, use antibiotics responsibly, complete prescribed treatments and follow healthcare advice to help slow antimicrobial resistance."
+},
+
+
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["what are antibiotics","what is an antibiotic"],
+"content":"Antibiotics are medicines used to treat bacterial infections. They do not treat viral infections."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["why don't antibiotics work for colds","cold antibiotics"],
+"content":"Colds are caused by viruses. Antibiotics only work against bacterial infections."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["flu antibiotics","can antibiotics treat flu"],
+"content":"Influenza is caused by a virus. Antibiotics are not effective unless a bacterial infection develops."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["covid antibiotics","covid treatment"],
+"content":"COVID-19 is a viral illness. Antibiotics do not treat COVID-19 itself."
+},
+{
+"source":"ICMR",
+"topic":"FAQ",
+"keywords":["can i buy antibiotics without prescription","buy antibiotics"],
+"content":"Antibiotics should only be taken after evaluation and prescription by a qualified healthcare professional."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["can i stop antibiotics early","stop medicine"],
+"content":"Take antibiotics exactly as prescribed. Do not stop treatment without consulting your healthcare provider."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["missed antibiotic dose","forgot dose"],
+"content":"If you miss a dose, follow the instructions provided by your healthcare provider or pharmacist."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["share antibiotics","give antibiotics to family"],
+"content":"Never share antibiotics. A medicine prescribed for one person may not be appropriate for another."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["leftover antibiotics","reuse antibiotics"],
+"content":"Do not save or reuse leftover antibiotics for future illnesses."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["viral infection","virus"],
+"content":"Viral infections such as colds and influenza usually do not require antibiotics."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["bacterial infection"],
+"content":"Bacterial infections may require antibiotics depending on the diagnosis made by a healthcare professional."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["fever antibiotics","do i need antibiotics for fever"],
+"content":"Fever alone does not indicate a bacterial infection. Medical evaluation may be needed to determine the cause."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["cough antibiotics"],
+"content":"Most coughs are caused by viral infections and do not require antibiotics."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["sore throat antibiotics"],
+"content":"Most sore throats are viral. Some bacterial throat infections require testing before antibiotics are prescribed."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["ear infection antibiotics"],
+"content":"Some ear infections improve without antibiotics. A healthcare professional can determine the appropriate treatment."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["urinary tract infection","uti"],
+"content":"Many urinary tract infections are bacterial and may require antibiotics prescribed by a healthcare professional."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["why complete antibiotic course"],
+"content":"Follow the prescribed treatment exactly as directed by your healthcare provider to ensure effective treatment."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["what is amr","antimicrobial resistance"],
+"content":"Antimicrobial resistance occurs when microorganisms change over time, making antimicrobial medicines less effective."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["why is amr dangerous"],
+"content":"AMR makes infections harder to treat, increases healthcare costs and can lead to longer illnesses."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["prevent antibiotic resistance"],
+"content":"Prevent infections, use antibiotics only when prescribed, follow treatment instructions and avoid unnecessary antibiotic use."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["prevent infections"],
+"content":"Hand hygiene, vaccination, safe food preparation and healthy habits help prevent infections."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["antibiotic side effects"],
+"content":"Antibiotics may cause side effects including diarrhea, allergic reactions and other adverse effects. Use them only when needed."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["allergic reaction antibiotics"],
+"content":"Seek medical attention immediately if you experience signs of a severe allergic reaction after taking an antibiotic."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["are antibiotics painkillers"],
+"content":"No. Antibiotics treat bacterial infections. They are not pain-relieving medicines."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["antibiotics reduce fever"],
+"content":"Antibiotics do not directly reduce fever. They treat bacterial infections when appropriate."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["healthy lifestyle infection prevention"],
+"content":"Regular exercise, balanced nutrition, adequate sleep and vaccination help reduce infection risk."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["vaccines reduce antibiotics"],
+"content":"Vaccination helps prevent infectious diseases, reducing the need for antibiotics."
+},
+{
+"source":"ICMR",
+"topic":"FAQ",
+"keywords":["antibiotic stewardship"],
+"content":"Antimicrobial stewardship promotes responsible antibiotic prescribing to preserve effectiveness."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["who antibiotics"],
+"content":"WHO recommends using antibiotics only when prescribed by qualified healthcare professionals."
+},
+{
+"source":"CDC",
+"topic":"FAQ",
+"keywords":["cdc antibiotics"],
+"content":"CDC encourages appropriate antibiotic use, infection prevention and public awareness to combat antibiotic resistance."
+},
+{
+"source":"ICMR",
+"topic":"FAQ",
+"keywords":["icmr antibiotics"],
+"content":"ICMR promotes antimicrobial stewardship, surveillance and responsible antibiotic prescribing in India."
+},
+{
+"source":"WHO",
+"topic":"FAQ",
+"keywords":["protect antibiotics"],
+"content":"Using antibiotics responsibly today helps preserve their effectiveness for future generations."
+}
+]

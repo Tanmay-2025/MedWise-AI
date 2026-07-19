@@ -1,0 +1,34 @@
+[
+  {
+    "myth": "Antibiotics can cure the common cold or flu.",
+    "fact": "Colds and influenza are caused by viruses. Antibiotics only work against bacterial infections and should not be used for viral illnesses."
+  },
+  {
+    "myth": "I should stop taking antibiotics once I feel better.",
+    "fact": "Follow your healthcare professional's instructions about duration. Stopping treatment without medical advice can contribute to treatment failure and antimicrobial resistance."
+  },
+  {
+    "myth": "Using leftover antibiotics is safe.",
+    "fact": "Leftover antibiotics may not be the correct medicine, dose, or duration for a new illness. Never reuse them without medical advice."
+  },
+  {
+    "myth": "It is okay to share antibiotics with family members.",
+    "fact": "Antibiotics should never be shared. Treatment depends on the infection, the patient, allergies, and other medical conditions."
+  },
+  {
+    "myth": "Stronger antibiotics are always better.",
+    "fact": "The most appropriate antibiotic depends on the type of infection. Using unnecessarily broad-spectrum antibiotics increases resistance."
+  },
+  {
+    "myth": "If antibiotics worked before, they will work again for any similar illness.",
+    "fact": "Symptoms may appear similar but can have different causes. Only a healthcare professional can determine whether antibiotics are needed."
+  },
+  {
+    "myth": "Antibiotic resistance means my body becomes resistant.",
+    "fact": "Resistance develops in bacteria, not in people. Resistant bacteria become harder to kill with antibiotics."
+  },
+  {
+    "myth": "Preventing infections has nothing to do with antibiotic resistance.",
+    "fact": "Hand hygiene, vaccination, safe food practices, and infection prevention reduce the need for antibiotics and help slow antimicrobial resistance."
+  }
+]
