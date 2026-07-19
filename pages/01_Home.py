@@ -97,16 +97,6 @@ with col2:
 
 st.divider()
 
-st.header("📈 Dashboard")
-
-a, b, c, d = st.columns(4)
-
-a.metric("Questions", "5")
-b.metric("Learning Pages", "4")
-c.metric("Quiz", "5 MCQs")
-d.metric("AI Assistant", "Ready")
-
-st.divider()
 
 st.header("🚀 Start Here")
 
