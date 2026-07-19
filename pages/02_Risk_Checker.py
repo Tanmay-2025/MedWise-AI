@@ -291,9 +291,11 @@ background:#FFF8E1;
 padding:15px;
 border-left:6px solid #FB8C00;
 border-radius:12px;
-margin-bottom:10px;">
+margin-bottom:10px;
+color:#263238;
+font-weight:500;">
 
-⚠ <b>{flag}</b>
+⚠ <b style="color:#263238;">{flag}</b>
 
 </div>
 """, unsafe_allow_html=True)
@@ -345,9 +347,11 @@ background:#E8F5E9;
 padding:15px;
 border-left:6px solid #2E7D32;
 border-radius:12px;
-margin-bottom:12px;">
+margin-bottom:12px;
+color:#263238;
+font-weight:500;">
 
-✅ {rec}
+<span style="color:#263238;">✅ {rec}</span>
 
 </div>
 """, unsafe_allow_html=True)
