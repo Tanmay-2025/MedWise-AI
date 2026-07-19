@@ -2,7 +2,7 @@ import streamlit as st
 from utils.helpers import page_footer
 
 st.title("💊 MedWise AI")
-st.image("assets/hero.png", use_container_width=True)
+st.image("assets/logo.png", use_container_width=True)
 st.subheader("AI-Based Antibiotic Misuse Awareness & Risk Checker")
 
 st.warning(
