@@ -4,6 +4,13 @@
 
 MedWise AI is an educational web application developed to promote responsible antibiotic use and increase awareness about Antimicrobial Resistance (AMR). The platform combines AI, interactive learning, and transparent risk assessment to help users understand safe antibiotic practices.
 
+## 🌐 Live Demo
+
+🔗 **Web App:** https://tanmay-2025-medwise-ai-app-55ag9h.streamlit.app/
+
+## 📂 Github Repo
+
+🔗 **Link:** https://github.com/Tanmay-2025/MedWise-AI
 ---
 
 ## ✨ Features
