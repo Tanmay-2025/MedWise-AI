@@ -254,3 +254,23 @@ font-size:24px;
 }
 
 }
+
+/* Success box text */
+[data-testid="stAlert"][kind="success"] *{
+    color:#1E293B !important;
+}
+
+/* Info box text */
+[data-testid="stAlert"][kind="info"] *{
+    color:#1E293B !important;
+}
+
+/* Warning box text */
+[data-testid="stAlert"][kind="warning"] *{
+    color:#1E293B !important;
+}
+
+/* Error box text */
+[data-testid="stAlert"][kind="error"] *{
+    color:#1E293B !important;
+}
